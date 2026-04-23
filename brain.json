@@ -1,14 +1,1 @@
-{
-    "english": {
-        "english": [
-            "hi im ravi"
-        ],
-        "hindi": [
-            "s"
-        ],
-        "s": [
-            "s"
-        ]
-    },
-    "hindi": {}
-}
+{"english": {"hi": ["Hi, how are you?"], "": [""], "bye": [""], "\u001bc": ["\u001bx"], "i am good ": ["exit"]}, "hindi": {}}
